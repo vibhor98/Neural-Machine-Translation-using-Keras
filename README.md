@@ -18,9 +18,11 @@ We're using dataset containing pairs of English - German sentences and can be do
 
 ### Calculating the Bleu scores
 On the Training Set:
+
 ![Training set Bleu score](https://github.com/vibhor98/Neural-Machine-Translation-using-Keras/blob/master/images/train_bleu.png)
 
 On the Testing Set:
+
 ![Testing set Bleu score](https://github.com/vibhor98/Neural-Machine-Translation-using-Keras/blob/master/images/test_bleu.png)
 
 ### References:
