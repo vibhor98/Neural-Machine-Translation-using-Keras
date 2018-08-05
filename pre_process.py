@@ -43,7 +43,7 @@ def save_data(sentences, filename):
     pkl.dump(sentences, open(filename, 'wb'))
     print('Saved: %s' % filename)
 
-filename = './deu-eng/deu.txt'
+filename = './data/deu.txt'
 file = load_file(filename)
 pairs = to_pair(file)
 clean_pairs = clean_pairs(pairs)
